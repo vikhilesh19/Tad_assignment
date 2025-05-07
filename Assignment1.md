@@ -25,4 +25,4 @@ These are commands used to connect with my github account
 - git branch -M main  
 - git push -u origin main
 14. Now my file is pushed into the github sucessufully.
-15. Similarly i have pushed the remaining progrmas also. 
+15. Similarly i have pushed the remaining progrmas also.
