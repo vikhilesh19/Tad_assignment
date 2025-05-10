@@ -3,12 +3,11 @@
 1. Created my Git hub account.  
 2. Installed Git from the browser.  
 3. Now i started learning about python language and i tried to apply the logics learnt in the c language by learning the syntax of python.  
-4. Now i wrote all the 4 codes :  
+4. Now i wrote all the 3 codes :  
 + Finding nth Fibonacci Number
-+ 3 Games: 
-    1. Hangman
-    2. Rock Paper scissor
-    3. Guessing the number
++ 2 Games:
+    1. Rock Paper scissor
+    2. Guessing the number
 5. Now i opened my git terminal 
 6. git config --global uer.name "vikhilesh19"  
 git config --global user.email cs24b1077@iiitdm.ac.in  
