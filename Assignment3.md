@@ -1,4 +1,5 @@
 # Applications related to drones or VTOL.
+
 ## 1.Path Planning and Obstacle Avoidance for Drones
 ***<u>Applications </u>*** :  
 Drones use graph based pathfinding algorithms like Dijkstra’s or BFS/DFS to find the safest and shortest path to destination.  
