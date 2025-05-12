@@ -36,4 +36,3 @@ My self A vikhilesh krishna.
 | 4 | KGF | Chocolates |
 | 5 | Seetha Ramam | Butterscotch Icecream |
 | 6 | Iron Man |   |
-| 7 | Magadhera | |
