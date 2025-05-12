@@ -9,7 +9,7 @@ My self A vikhilesh krishna.
 - Listening Music
 - Learning New things
 - Playing chess
-- Watch Movies  
+- Watching Movies  
 
 ## Aims :
 - Good CGPA in core subjects
