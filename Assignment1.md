@@ -5,7 +5,7 @@
 3. Now i started learning about python language and i tried to apply the logics learnt in the c language by learning the syntax of python.  
 4. Now i wrote all the 3 codes :  
 + Finding nth Fibonacci Number
-+ 2 Games:
++ 2 Games: 
     1. Rock Paper scissor
     2. Guessing the number
 5. Now i opened my git terminal 
